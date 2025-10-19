@@ -99,7 +99,7 @@ Agents/
 ├── .env                    # Environment variables (create from .env.example)
 ├── .gitignore             # Git ignore rules
 ├── requirements.txt       # Python dependencies
-├── test.py               # Main test agent script
+├── my_autogen_test.py               # Main test agent script
 ├── autogenenv/           # Virtual environment (ignored by git)
 └── README.md            # This file
 ```
